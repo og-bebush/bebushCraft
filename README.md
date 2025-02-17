@@ -1,2 +1,2 @@
 # bebushCraft
-BebushCraft Minecraft server repository
+**BebushCraft Minecraft server repository**
