@@ -1,7 +1,7 @@
 # bebxsh_craft
 ## Общая информация
 
-> _IP: Dynamic_
+> _IP: mc.bebxsh.org_
 > 
 > _Version: 1.21.4_
 > 
