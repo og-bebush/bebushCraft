@@ -76,7 +76,7 @@
 > 1.2 Скачиваем по **второй кнопке** - "Download x64 .exe"
 > 
 > 1.3 Запускаем лаунчер
->  - если выдает ошибку про Java/JDK/JRE - скачайте джаву с [оффсайта](https://www.oracle.com/java/technologies/downloads/#jdk23-windows)*
+>  - если выдает ошибку про Java/JDK/JRE - скачайте джаву с **[оффсайта](https://www.oracle.com/java/technologies/downloads/#jdk23-windows)**
 > 
 > 1.4 Снизу есть серая кнопка "Войти в оффлайн режиме"
 > 
