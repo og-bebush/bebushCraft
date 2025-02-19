@@ -101,7 +101,8 @@
 <br>
  
 2. _**TLauncher**_ *(не наша тема)*
-> Нужны: лаунчер, [fabric](https://fabricmc.net/use/installer/), мозг
+
+ Нужны: лаунчер, [fabric](https://fabricmc.net/use/installer/), мозг
 >
 > ***TLauncher - блядское говно, качайте что-то другое***
 >
